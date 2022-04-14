@@ -1,13 +1,16 @@
+*{
+    color: aliceblue;
+}
 table{
+    margin-top: 100px;
     width: 100%;
     border-collapse:collapse;
     border-spacing:0
     }
     table, td, th{
-    border: 1px solid #941111;
+    border: 1px solid #5df84e;
     }
     td, th{
-    padding: 3px;
     width: 30px;
     height: 25px;
     }
