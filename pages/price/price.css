@@ -1,14 +1,17 @@
+*{
+    text-align: center ;
+    color: aliceblue;
+}
 table{
     width: 100%;
     border-collapse:collapse;
-    border-spacing:0
+    border-spacing:0;
+    margin-top: 80px;
     }
     table, td, th{
-    border: 1px solid #595959;
+    border: 1px solid #8fec60;padding: 30px;
     }
     td, th{
-    padding: 3px;
-    width: 30px;
     height: 25px;
     }
     th{
